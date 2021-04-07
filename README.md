@@ -5,6 +5,14 @@
 
 > A simple framework in EC pattern for HTML5 marketing pages.
 
+## Pages created with ft
+
+- [来跑跑寻找你的 Line Friends 伙伴](https://demo.yiz.design/qq-popcart-linefriends-perf/index_master.html)
+- [王者荣耀 2019 年中秋节小游戏](https://demo.yiz.design/kog-maf-2019-rmrb/)
+- [LOL 电玩研究所](https://demo.yiz.design/lol-video-game/)
+- [LOL 冰雪节 2018 主题活动](https://demo.yiz.design/lol-snowing-festival-2018/)
+- ...
+
 ## Features
 
 - GPU memory sensitive code
